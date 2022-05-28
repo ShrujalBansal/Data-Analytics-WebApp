@@ -16,7 +16,7 @@ def write():
     st.write("This platform is a self-service analytics software that provides the organisation with actionable insights on real data. It is designed to provide real time analysis and insights, thus improving the decision making of the industry. With the continuous development of machine learning, enterprises using machine learning methods to mine potential data information has become a hot topic in the research of major automobile industries. The features of automobile data are analyzed, and the most important features affecting sales are mined. ")
     
     st.markdown("Selected Dataset:")
-    df = pd.read_csv("Dataset/Car_sales.csv")
+    df = pd.read_csv("Dataset\Car_sales.csv")
     row3_spacer1, row3_1, row3_spacer2 = st.columns((.2, 7.1, .2))
     with row3_1:
         st.markdown("")
