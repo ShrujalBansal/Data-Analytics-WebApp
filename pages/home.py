@@ -41,4 +41,4 @@ def write():
      
     st.write("")
     st.write("")
-    st.markdown("You can find the source code in the [BuLiAn GitHub Repository](https://github.com/tdenzl/BuLiAn)")
+    st.markdown("You can find the source code in the [GitHub Repository](https://github.com/ShrujalBansal/Data-Analytics-WebApp)")
