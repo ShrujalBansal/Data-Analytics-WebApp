@@ -14,7 +14,7 @@ def write():
     </style> """, unsafe_allow_html=True)
     st.markdown('<p class="font">Sales Forecast</p>', unsafe_allow_html=True)
 
-    dataset=pd.read_csv('Car_sales.csv')
+    dataset=pd.read_csv('Dataset\Car_sales.csv')
 
     ###CLEANING DATA
 
