@@ -16,7 +16,7 @@ def write():
      "What average engine size is offered for different types of vehicles?","Analyse specifications- Fuel_capacity and Fuel_efficiency for top 5 manufacturer",
      "How all specifications are related?"])
     
-    df=pd.read_csv('Car_sales.csv')
+    df=pd.read_csv('Dataset\Car_sales.csv')
 
     #data for top 10 manufacturer
     manufacturer_count = dict()
