@@ -5,7 +5,7 @@ import numpy as np
 import seaborn as sns
 
 #Data import
-df=pd.read_csv('Dataset\Car_sales.csv')
+df=pd.read_csv('Car_sales.csv')
 types = ["Mean","Absolute","Median","Maximum","Minimum"]
 label_mesr_dict={"Sales":"Sales_in_thousands","Price":"Price_in_thousands","Engine size":"Engine_size","Horsepower":"Horsepower","Fuel efficiency":"Fuel_efficiency"}
 label_asp_dict={"Manufacturer":"Manufacturer","Launch Year":"Launch_Year","Price Range":"Price_Range","Vehicle Type":"Vehicle_type"}
