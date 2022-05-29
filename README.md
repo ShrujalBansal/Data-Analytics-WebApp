@@ -1,7 +1,7 @@
 # Data-Analytics-WebApp
 
-#### Deployed App 
-https://share.streamlit.io/shrujalbansal/data-analytics-webapp/main/main.py
+<a href="https://share.streamlit.io/shrujalbansal/data-analytics-webapp/main/main.py" target="_blank">Link to WebApp</a>
+
 
 # About the Project
 
@@ -41,10 +41,10 @@ Model Training and selection
 
 ## Screenshots
 
-![App Screenshot](/Ss/Homepage.png)
-![App Screenshot](/Ss/DataVisualisation Page.png)
-![App Screenshot](/Ss/Key Insights.png)
-![App Screenshot](/Ss/Sales Prediction.png)
-![App Screenshot](/Ss/Sales Prerdiction2.png)
+![Homepage](/Ss/Homepage.png)
+![DataVisualisation](/Ss/DataVisualisation Page.png)
+![KeyInsights](/Ss/Key Insights.png)
+![SalesPrediction](/Ss/Sales Prediction.png)
+![SalesPrediction2](/Ss/Sales Prerdiction2.png)
 
 
