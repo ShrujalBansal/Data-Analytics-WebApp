@@ -41,11 +41,11 @@ Model Training and selection
 
 ## Screenshots
 
+<img src="Ss/Homepage.png" alt="Homepage" width="500"/>
+<img src="Ss/Ss/DataVisualisation Page.png" alt="DataVisualisation" width="500"/>
+<img src="Ss/Ss/Key Insights.png" alt="KeyInsights" width="500"/>
+<img src="Ss/Sales Prediction.png" alt="SalesPrediction" width="500"/>
+<img src="Ss/Sales Prerdiction2.png" alt="SalesPrediction2" width="500"/>
 
-<img src="Ss/Homepage.png" alt="Homepage" width="200"/>
-![DataVisualisation](/Ss/DataVisualisation Page.png)
-![KeyInsights](/Ss/Key Insights.png)
-![SalesPrediction](/Ss/Sales Prediction.png)
-![SalesPrediction2](/Ss/Sales Prerdiction2.png)
 
 
