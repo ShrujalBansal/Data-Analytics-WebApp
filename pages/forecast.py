@@ -12,7 +12,7 @@ def write():
     st.markdown(""" <style> .font {
     font-size:50px;text-align: center; font-family: 'Serif'; color: #FF9633;} 
     </style> """, unsafe_allow_html=True)
-    st.markdown('<p class="font">Sales Forecast</p>', unsafe_allow_html=True)
+    st.markdown('<p class="font">Sales Prediction</p>', unsafe_allow_html=True)
 
     dataset=pd.read_csv('Car_sales.csv')
 
