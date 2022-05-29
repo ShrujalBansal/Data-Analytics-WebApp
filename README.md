@@ -49,6 +49,7 @@ Model Training and selection
 
 ### KEY INSIGHTS PAGE
 <img src="Ss/Key Insights.png" alt="KeyInsights" width="500"/>
+<img src="Ss/Screenshot (49).png" alt="KeyInsights" width="500"/>
 
 ### SALES PREDICTION PAGE
 <img src="Ss/Sales Prediction.png" alt="SalesPrediction" width="500"/>
