@@ -42,6 +42,7 @@ Model Training and selection
 ## Screenshots
 
 ![Homepage](/Ss/Homepage.png)
+<img src="Homepage.png" alt="Homepage" width="200"/>
 ![DataVisualisation](/Ss/DataVisualisation Page.png)
 ![KeyInsights](/Ss/Key Insights.png)
 ![SalesPrediction](/Ss/Sales Prediction.png)
