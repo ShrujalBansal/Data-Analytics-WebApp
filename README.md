@@ -1,8 +1,8 @@
 # Data-Analytics-WebApp
 
-<a href="https://share.streamlit.io/shrujalbansal/data-analytics-webapp/main/main.py" target="_blank">Link to WebApp </a>
+<a href="https://share.streamlit.io/shrujalbansal/data-analytics-webapp/main/main.py/" target="_blank">Link to WebApp </a>
 
-<a href="https://www.youtube.com/watch?v=mdgzVmPjIf4" target="_blank">Link to Demo Video</a>
+<a href="https://www.youtube.com/watch?v=mdgzVmPjIf4/" target="_blank">Link to Demo Video</a>
 
 
 # About the Project
