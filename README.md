@@ -44,18 +44,18 @@ Model Training and selection
 ## Navigating through the App
 
 ### HOME PAGE
-<img src="Ss/Homepage.png" alt="Homepage" width="500"/>
+<img src="Images/Homepage.png" alt="Homepage" width="500"/>
 
 ### DATA VISUALISATION PAGE
-<img src="Ss/DataVisualisation Page.png" alt="DataVisualisation" width="500"/>
+<img src="Images/DataVisualisation Page.png" alt="DataVisualisation" width="500"/>
 
 ### KEY INSIGHTS PAGE
-<img src="Ss/Key Insights.png" alt="KeyInsights" width="500"/>
-<img src="Ss/Screenshot (49).png" alt="KeyInsights" width="500"/>
+<img src="Images/Key Insights.png" alt="KeyInsights" width="500"/>
+<img src="Images/Key Insights2.png" alt="KeyInsights2" width="500"/>
 
 ### SALES PREDICTION PAGE
-<img src="Ss/Sales Prediction.png" alt="SalesPrediction" width="500"/>
-<img src="Ss/Sales Prerdiction2.png" alt="SalesPrediction2" width="500"/>
+<img src="Images/Sales Prediction.png" alt="SalesPrediction" width="500"/>
+<img src="Images/Sales Prediction2.png" alt="SalesPrediction2" width="500"/>
 
 
 
